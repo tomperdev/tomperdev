@@ -2,7 +2,9 @@
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate.
+
 - 📫 How to reach me: hi@tomper.dev
+- 🖥️ Check my latest works: https://tomper.dev
 
 <!---
 tomperdev/tomperdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
